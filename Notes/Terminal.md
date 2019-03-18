@@ -17,3 +17,4 @@
 | rm xxx.txt | remove textfile |
 | rm * | removes all files |
 | rm -r xxx | removes a directory |
+| emacs -batch -l dunnet | Play the terminal story game |
